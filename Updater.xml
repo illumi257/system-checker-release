@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Updates>
+  <Update>
+    <Version>1.0.1</Version>
+    <URL>https://github.com/yourusername/yourrepo/releases/download/v1.0.1/yourinstaller.msi</URL>
+    <Description>Version 1.0.1 includes performance improvements and bug fixes.</Description>
+    <Size>12345678</Size> <!-- Size in bytes -->
+    <Mandatory>false</Mandatory>
+  </Update>
+</Updates>
