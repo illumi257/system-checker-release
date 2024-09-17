@@ -4,7 +4,7 @@
     <Version>1.0.1</Version>
     <URL>https://github.com/illumi257/system-checker-release/releases/download/v1.0.1/System_Checker_with_Gmail_Support_Installer_Release.exe</URL>
     <Description>Version 1.0.1 includes performance improvements and bug fixes.</Description>
-    <Size>68157440 </Size> <!-- Size in bytes -->
+    <Size>75497472</Size> <!-- Size in bytes -->
     <Mandatory>true</Mandatory>
   </Update>
 </Updates>
